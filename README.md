@@ -5,7 +5,7 @@ Olist, une entreprise brésilienne spécialisée dans la vente sur les marketpla
 
 ## Objectif du Projet
 - Fournir une segmentation des clients exploitable par l'équipe marketing d'Olist.
-- Proposer une description actionable de la segmentation et de sa logique sous-jacente.
+- Proposer une description actionnable de la segmentation et de sa logique sous-jacente.
 - Recommander une fréquence de mise à jour du modèle de segmentation pour maintenir sa pertinence.
 
 ## Étapes du Projet
