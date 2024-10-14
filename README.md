@@ -1,5 +1,7 @@
 # Segmentation des Clients pour Olist
 
+<img src="https://user.oc-static.com/upload/2019/02/24/15510251487267_Capture%20d%E2%80%99e%CC%81cran%202019-02-20%20a%CC%80%2017.37.38.png" />
+
 ## Contexte
 Olist, une entreprise brésilienne spécialisée dans la vente sur les marketplaces en ligne, souhaite obtenir une segmentation de ses clients pour optimiser ses campagnes de communication. L'objectif est de comprendre les différents types d'utilisateurs à partir de leur comportement et de leurs données personnelles.
 
